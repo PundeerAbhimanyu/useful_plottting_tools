@@ -9,4 +9,3 @@ sns.set(style="ticks")
 
 sns.pairplot(df, hue = 'species')
 plt.show()
-
